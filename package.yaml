@@ -23,6 +23,8 @@ dependencies:
 - base >= 4.11 && < 10
 - rio >= 0.1.8.0
 - lens
+- process
+- text
 - resourcet
 - gogol
 - gogol-apps-calendar
